@@ -1,6 +1,6 @@
 //                                   typingg animatoin
 var typed = new Typed(".typing", {
-    strings: ["","System Administrator" ,"Network Manager", "BackEnd Developer", "Infostructre Automater"],
+    strings: ["","System Administrator" ,"Frontend Developer", "Backend Developer"],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
